@@ -1,0 +1,22 @@
+[package]
+name = "data_structure"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "unionfind"
+path = "src/unionfind.rs"
+
+[[bin]]
+name = "unionfind_with_potential"
+path = "src/unionfind_with_potential.rs"
+
+[[bin]]
+name = "unionfind_with_potential_non_commutative_group"
+path = "src/unionfind_with_potential_non_commutative_group.rs"
+
+[[bin]]
+name = "static_range_sum"
+path = "src/static_range_sum.rs"
+
+[dependencies]
