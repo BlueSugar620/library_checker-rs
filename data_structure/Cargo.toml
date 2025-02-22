@@ -31,4 +31,8 @@ path = "src/range_affine_point_get.rs"
 name = "range_affine_range_sum"
 path = "src/range_affine_range_sum.rs"
 
+[[bin]]
+name = "static_range_inversions_query"
+path = "src/static_range_inversions_query.rs"
+
 [dependencies]
