@@ -1,0 +1,10 @@
+[package]
+name = "number_theory"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "enumerate_quotients"
+path = "src/enumerate_quotients.rs"
+
+[dependencies]
