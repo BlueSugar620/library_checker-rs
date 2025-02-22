@@ -7,4 +7,8 @@ edition = "2021"
 name = "enumerate_quotients"
 path = "src/enumerate_quotients.rs"
 
+[[bin]]
+name = "primality_test"
+path = "src/primality_test.rs"
+
 [dependencies]
