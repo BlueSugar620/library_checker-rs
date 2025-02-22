@@ -11,4 +11,8 @@ path = "src/enumerate_quotients.rs"
 name = "primality_test"
 path = "src/primality_test.rs"
 
+[[bin]]
+name = "enumerate_primes"
+path = "src/enumerate_primes.rs"
+
 [dependencies]
