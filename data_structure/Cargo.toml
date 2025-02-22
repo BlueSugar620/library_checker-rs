@@ -19,4 +19,16 @@ path = "src/unionfind_with_potential_non_commutative_group.rs"
 name = "static_range_sum"
 path = "src/static_range_sum.rs"
 
+[[bin]]
+name = "point_set_range_composite"
+path = "src/point_set_range_composite.rs"
+
+[[bin]]
+name = "range_affine_point_get"
+path = "src/range_affine_point_get.rs"
+
+[[bin]]
+name = "range_affine_range_sum"
+path = "src/range_affine_range_sum.rs"
+
 [dependencies]
