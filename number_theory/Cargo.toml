@@ -15,4 +15,8 @@ path = "src/primality_test.rs"
 name = "enumerate_primes"
 path = "src/enumerate_primes.rs"
 
+[[bin]]
+name = "sum_of_floor_of_linear"
+path = "src/sum_of_floor_of_linear.rs"
+
 [dependencies]

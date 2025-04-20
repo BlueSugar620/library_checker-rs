@@ -1,0 +1,14 @@
+[package]
+name = "convolution"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "convolution"
+path = "src/convolution.rs"
+
+[[bin]]
+name = "bitwise_xor_convolution"
+path = "src/bitwise_xor_convolution.rs"
+
+[dependencies]
